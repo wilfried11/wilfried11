@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wilfried11
-- 👀 I’m interested in Flutter , Angular , Nodjs&Express API and Spring boot project developpement 
-- 🌱 I’m currently learning Python for DataScience
+- 👀 I’m interested in Flutter , Angular App developpement and Nodjs&Express, Spring boot and .Net Rest-Api developpement 
+- 🌱 I’m currently taking Azure , Scrum and DevOps courses
 - 💞️ I’m looking to collaborate on any projects in any fields #like_chalenge
 - 📫 How to reach me Whatsapp : +237670549926 Email : dwilfriedkevin@gmail.com linkedIn : Wilfried11
 
